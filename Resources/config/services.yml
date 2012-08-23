@@ -1,0 +1,6 @@
+parameters:
+#    ob_weather.example.class: Ob\WeatherBundle\Example
+
+services:
+  ob_weather.weather:
+    class: Ob\WeatherBundle\Weather
