@@ -1,0 +1,22 @@
+{
+    "name": "ob/weather-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony2 Bundle to get weather informations from Yahoo! Weather API",
+    "keywords": ["symfony2", "weather", "temperature", "forecast", "yahoo"],
+    "homepage": "https://github.com/marcaube/ObWeatherBundle",
+    "authors": [
+        {
+            "name": "Marc Aubé"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "symfony/symfony": "2.0.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Ob\\WeatherBundle": ""
+        }
+    },
+    "target-dir": "Ob/WeatherBundle"
+}
