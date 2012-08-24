@@ -2,7 +2,7 @@
     "name": "ob/weather-bundle",
     "type": "symfony-bundle",
     "description": "Symfony2 Bundle to get weather informations from Yahoo! Weather API",
-    "keywords": ["symfony2", "weather", "temperature", "forecast", "yahoo"],
+    "keywords": ["symfony2", "weather", "temperature", "forecast", "yahoo", "ob", "marcaube"],
     "homepage": "https://github.com/marcaube/ObWeatherBundle",
     "authors": [
         {
