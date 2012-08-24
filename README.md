@@ -3,6 +3,8 @@
 `ObWeatherBundle` is an attempt to have basic weather informations like current temperature and weather forecast for
 one of the projects I'm working on.
 
+[![Build Status](https://secure.travis-ci.org/marcaube/ObWeatherBundle.png?branch=master)](http://travis-ci.org/marcaube/ObWeatherBundle)
+
 ## How to get started
 
 ### Installation
