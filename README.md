@@ -43,3 +43,5 @@ And finally register the bundle in your `app/AppKernel.php`:
         );
     ...
 ```
+Add Emoji
+🤑
